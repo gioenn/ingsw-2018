@@ -1,8 +1,10 @@
+*.DS_STORE
+*.idea
+*.iml
 
 # Created by https://www.gitignore.io/api/java,eclipse,intellij
 
 ### Eclipse ###
-
 .metadata
 bin/
 tmp/
