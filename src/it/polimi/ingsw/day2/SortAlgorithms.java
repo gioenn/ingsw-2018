@@ -1,5 +1,7 @@
 package it.polimi.ingsw.day2;
 
+import it.polimi.ingsw.day3.Polygon;
+
 import java.util.Arrays;
 import java.util.Date;
 
@@ -34,6 +36,9 @@ public class SortAlgorithms {
         SortAlgorithms.sort(students, false);
 
         System.out.println(Arrays.toString(students));
+
+        //Polygon p;
+        //it.polimi.ingsw.day1.Polygon p;
 
     }
 
