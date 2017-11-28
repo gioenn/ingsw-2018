@@ -5,8 +5,8 @@ package it.polimi.ingsw.day1;
  */
 public class Stack {
 
-    int data[];
-    int current;
+    protected int data[];
+    protected int current;
 
     public Stack(int size){
         data = new int[size];
